@@ -1,12 +1,16 @@
-h1{
-    color:red;
+header{
+    background-color: #101820;
 }
-h2 {
-    border: blue solid;
+
+header > a {
+    color:#FEE715;
+    font-family: "PT Sans Narrow", sans-serif;
 }
-ol{
-    background-color: yellow;
+
+body{
+    background-color: #fff6a9;
 }
-li{
-    color: violet;
+
+*{
+    font-family: "PT Sans Narrow", sans-serif;;
 }
